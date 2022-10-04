@@ -1,0 +1,4 @@
+Hello this is my first  .txt file I'm working on as part of the Odin project
+I'm doing this while my mate Jess has gone to make dinner
+and my dog Lucky is lying down beside my chair
+
